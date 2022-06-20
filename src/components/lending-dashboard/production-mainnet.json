@@ -1,0 +1,63 @@
+{
+    "programID" : "LendMeXtiq2tQHCVbVaZfjMrv7JBKN3Paw5XAg2YeMZ",
+    "assets" : [
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "decimals": 9,
+            "mintAddress": "So11111111111111111111111111111111111111112"
+        },
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "decimals": 6,
+            "mintAddress": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E"
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "decimals": 6,
+            "mintAddress": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk"
+        },
+        {
+            "name": "USDT",
+            "symbol": "USDT",
+            "decimals": 6,
+            "mintAddress": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
+        },
+        {
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        }
+        
+    ],
+    "markets": {
+        "address": "BF4fnbStubBUDnB9fBHGdkcBxUs7aiA6GWMQSXc4jUwE",
+        "authorityAddress": "seedpDFsdHn1CFFD1PrBNownsZySXy1TqMiWo4vE84t",
+        "transferAuthorityAddress": "FoybKew6LiyZ3kMPizXmvZi8EUUxt7cHQkT5kfY9vvFm",
+        "reserves": [
+            {
+                "asset": "SOL",
+                "address": "3RYZnFccyB5c1N7abCWTpJT3XfVzhNSjDfBmUCK4vG4Y"
+            },
+            {
+                "asset" : "BTC",
+                "address": "744M6GczNnvNd3X9MmDW4T2zz6iGZpBNPzj21WwVNv6"
+            },
+            {
+                "asset" : "ETH",
+                "address": "EeKsDkcyQqbQJWYZ4H8YmKX1CZ99ssv48SLVL5bnX58E"
+            },
+            {
+                "asset" : "USDT",
+                "address": "FPNqw92SCK1wgPvSAjSL9V8iUSEB4FCcgCmXhkCYD4ft"
+            },
+            {
+                "asset" : "USDC",
+                "address": "9bUkYjfp684KVGUt8SdmsG1PYFBzJbZGJhuti1qgHmNK"
+            }
+        ]
+    }
+}

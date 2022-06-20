@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Glitter Finance",
+    "logo": "/logos/glitter-logo.jpeg",
+    "symbol": "$XGLI",
+    "symbolLogo": "/symbols/glitter-symbol.jpg",
+    "banner": "https://pbs.twimg.com/profile_banners/1420412266139299849/1645890040/1500x500",
+    "label": "Live",
+    "chain": "Solana",
+    "price": "$0.18",
+    "total_raise": "$200,000",
+    "description": "Glitter is building an innovative Cross-Chain Bridge with integrated DeFi 2.0 products, making crypto accessible for everyone",
+    "start_date_format": "2022.3.4",
+    "start_time_format": "16:00",
+    "start_date": "Mar 4th",
+    "start_time": "16:00 UTC",
+    "end_date": "Mar 4th",
+    "end_time": "18:00 UTC",
+    "registration_start_date": "Mar 4th",
+    "registration_start_time": "18:00 UTC",
+    "registration_end_date": "",
+    "registration_end_time": "21:00 UTC",
+    "supply": "500,000,000",
+    "inital_market_cap": "$993,230",
+    "links": {
+      "website": "https://glitter.finance/",
+      "twitter": "https://twitter.com/GlitterFinance",
+      "telegram": "https://t.me/GlitterFinanceGlobal",
+      "discord": "https://discord.gg/P3mZkjsQMM",
+      "medium": "https://medium.com/@Glitter-Finance"
+    }
+  }
+]
